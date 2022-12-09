@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @upseat7
+- 👀 I’m interested in creating open source projects.
+- 🌱 I’m currently learning JavaScript.
+- 💞️ I’m looking to collaborate on nothing atm.
+- 📫 How to reach me: not possible rn.
